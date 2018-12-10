@@ -1,6 +1,7 @@
-# sitandlisten
-Interactive experience about privacy and security
+![Project Banner](/assets/template_visuals/temp-banner.png)
 
+<a name="intro"></a>
+# SIT AND LISTEN - Interactive Experience about Privacy and Security
 inspiration: the little theatrical scenes from Kentucky Route Zero supplement games
 
 Room in 3D, you’re sitting on an armchair. There is a choice in front of you (Tell your story) (Wait for a better time). When you press (Tell your story) a knock on the door is heard and a slim man enters the room.
@@ -86,3 +87,76 @@ world at large will not know their existence until the fruit of their efforts ha
 This reminds me of the Screener Walls project I was thinking about earlier. Player is the anti-anti-establishment and the establishment is telling the actual truth. The player is surrounded with propaganda of the truth. Shouts of equality are supposed to be quenched by him. He is the anti-hero. 
 
 Creating a world without boundaries is a task of an abstract nature. As it is built it first lies upon foundations of the structural - an expansion of the rigid tracks around which we swirl the wips of a story. 
+
+![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
+
+Description.
+
+![GALLERY QUAD](/assets/template_visuals/temp-triple-gallery.png)
+
+Description.
+
+![GALLERY QUAD](/assets/template_visuals/temp-quad-gallery.png)
+
+### Table of Contents
+1. [Introduction.](#intro)
+2. [Features.](#features)
+3. [Issues.](#issues)
+4. [Icebox.](#icebox)
+5. [Installation and usage guide.](#install)
+6. [Contributing.](#contribute)
+7. [License.](#license)
+8. [Credits.](#credits)
+9. [Commit Glyphs.](#glyphs)
+
+<a name="features"></a>
+### Features
++ Feature_01
++ Feature_02
++ Feature_03
+
+<a name="issues"></a>
+### Issues
++ Issue_01
++ Issue_02
++ Issue_03
+
+<a name="icebox"></a>
+### Icebox
++ Idea_01
++ Idea_02
++ Idea_03
+
+<a name="install"></a>
+### Installation and Usage Guide
+Include basic necessary components. Gifs if required.
+```
+1. 
+2. 
+3. 
+```
+
+<a name="contribute"></a>
+### Contributing
+Insert project contribution rules if allowed.
+
+<a name="license"></a>
+### License
+Insert project licensing options if there are any.
+
+<a name="credits"></a>
+### Credits
+Insert project creator entities, contributors and their respective presence links.
+
+<a name="glyphs"></a>
+### Commit Glyphs
+
++ ☰ Code structure and formatting
++ ▲ Performance improvements
++ ⨯ File deletion
++ ∗ Bugfix
++ ⬡ New Feature
++ ⎔ Documentation
++ ❑ UI design
++ ⚑ Release
+
