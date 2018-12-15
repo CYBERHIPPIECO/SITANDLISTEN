@@ -11,7 +11,7 @@ Words you speak into the microphone appear.
 Man: ‘I brought the recorder’
 You: ‘Good’
 Man (taking a seat): ‘You sure you want to do this?’
-You: ‘I already made my choice haven’t I? Just sit and listen'
+You: ‘I already made my choice haven’t I? Just sit and listen' (title of the game appears in blocky white letters)
 Man (nods and sets up the tape recorder)
 You: 'One day, I decided to go looking for an elusive creature, known to me as civilisation.' 
 You: 'Even though I knew what the state of the outside world was at the time I ventured out'
