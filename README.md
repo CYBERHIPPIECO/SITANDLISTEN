@@ -4,7 +4,7 @@
 # SIT AND LISTEN - Interactive Experience about Privacy and Security
 inspiration: the little theatrical scenes from Kentucky Route Zero supplement games
 
-Room in 3D, you’re sitting on an armchair. There is a choice in front of you (Tell your story) (Wait for a better time). When you press (Tell your story) a knock on the door is heard and a slim man enters the room.
+Room in 3D, you’re sitting on an armchair. There is a choice in front of you (Tell your story) (Wait for a better time). When you press (Tell your story) a knock on the door is heard and a slim man enters the room. -he looks like yates, tall and slim face, long legs, bright grey blue suit-
 
 Words you speak into the microphone appear.
 
